@@ -1,0 +1,84 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "adaptive_pressure_advance_bridges": [
+        "0.056"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "100"
+    ],
+    "default_filament_colour": [
+        "#009100"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "70"
+    ],
+    "fan_cooling_layer_time": [
+        "15"
+    ],
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "10"
+    ],
+    "filament_density": [
+        "1.23"
+    ],
+    "filament_diameter": [
+        "1.75"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Arsenii'sTechnologies - PETG"
+    ],
+    "filament_shrink": [
+        "99.5%"
+    ],
+    "filament_shrinkage_compensation_z": [
+        "99.5%"
+    ],
+    "filament_type": [
+        "PETG"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "1"
+    ],
+    "inherits": "Arsenii'sTechnologies - PLA",
+    "name": "Arsenii'sTechnologies - PETG",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "nozzle_temperature_range_high": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "220"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pellet_flow_coefficient": [
+        "0.415752"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_min_speed": [
+        "35"
+    ],
+    "temperature_vitrification": [
+        "70"
+    ],
+    "version": "0.0.0.0"
+}
